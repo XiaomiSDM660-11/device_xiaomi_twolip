@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_twolip.mk
+    $(LOCAL_DIR)/hentai_twolip.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_twolip-user \
-    aosp_twolip-userdebug \
-    aosp_twolip-eng
+    hentai_twolip-user \
+    hentai_twolip-userdebug \
+    hentai_twolip-eng
